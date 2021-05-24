@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://randavatars.herokuapp.com/basilmt" alt="random images" width="100" height="100">
+  <img src="https://randavatars.herokuapp.com/basilmt" alt="random images" width="300" height="300">
  </div>
 
 <!--
