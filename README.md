@@ -1,4 +1,4 @@
-<div align="centre">
+<div align="center">
   <img src="https://randavatars.herokuapp.com/random" alt="random images" width="100" height="100">
  </div>
 
